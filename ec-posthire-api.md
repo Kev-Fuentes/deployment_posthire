@@ -5,7 +5,7 @@
 
 ### The .env file of this service is located on:
 `/var/www/ec-posthire-api/.env`
-In this guide, you will find all the necessary steps to perform a deployment of **ECC Core API** to a specific environment. We have to ways to do it, based on how is configured the environment.
+In this guide, you will find all the necessary steps to perform a deployment of **EC Posthire API** to a specific environment. We have to ways to do it, based on how is configured the environment.
 
 ## Production
 In order to deploy this service in this environment, please follow these steps:
